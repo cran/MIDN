@@ -1,0 +1,7 @@
+32f2ebe2e17aeaee50b59921ae960953 *DESCRIPTION
+02b03064eaaed602d27bf6ff4a28b2e4 *NAMESPACE
+22a632efb624828005909e43d28f00ac *R/McNem_Score_midn.R
+ddb743abf610e2f360937f4ea6ad5c4b *R/fisher_boschloo_midN.R
+ac65fcb44e313ec0f6e9e49d4f069368 *man/MIDN-package.Rd
+9d5274457f8ff48e90ee930063e09fd2 *man/McNem_Score_midn.Rd
+555649ef05fd036acdd59529a92cfc1c *man/fisher_boschloo_midN.Rd
